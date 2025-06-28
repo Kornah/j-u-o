@@ -1,6 +1,6 @@
 # J-U-O
-*Junon.io Unofficial Overhaul*
--# an overhaul for the dead junon.io game.
+***Junon.io Unofficial Overhaul***
+*an overhaul for the dead junon.io game.*
 
 ## Details:
 - rewritten in C and SDL2 (WASM)
